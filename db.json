@@ -1,0 +1,44 @@
+{
+  "Policard": [
+    {
+      "nombre": "Enrique A.A",
+      "matricula": 203418,
+      "cuatrimestre": 9,
+      "grupo": "A",
+      "carrera": "Ingenieria en Software",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Jose Angel A.M",
+      "matricula": 203031,
+      "cuatrimestre": 7,
+      "grupo": "B",
+      "carrera": "Ingenieria en Software"
+    },
+    {
+      "id": 3,
+      "nombre": "Mario Colocho R.M",
+      "matricula": 203419,
+      "cuatrimestre": 9,
+      "grupo": "A",
+      "carrera": "Ingenieria en Software"
+    },
+    {
+      "id": 4,
+      "nombre": "Cesar Eduardo Z.M",
+      "matricula": 203038,
+      "cuatrimestre": 9,
+      "grupo": "B",
+      "carrera": "Ingenieria en Software"
+    },
+    {
+      "id": 5,
+      "nombre": "Eduardo Antonio F.D.L",
+      "matricula": 203039,
+      "cuatrimestre": 7,
+      "grupo": "A",
+      "carrera": "Ingenieria en Software"
+    }
+  ]
+}
